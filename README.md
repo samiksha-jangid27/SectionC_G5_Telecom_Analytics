@@ -36,3 +36,7 @@ The Indian telecom sector faces significant customer churn, where subscribers di
 3. `03_eda.ipynb`: Finalized Exploratory Data Analysis with rich visualizations.
 4. `04_statistical_analysis.ipynb`: Rigorous statistical analysis including T-Tests, Chi-Square, Correlation Heatmaps, and Logistic Regression.
 5. `05_final_load_prep.ipynb`: Final preparations for data loading and model/dashboard consumption.
+
+---
+
+**Still in Progress**
