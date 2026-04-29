@@ -1,0 +1,12 @@
+## DVA-Focused Portfolios
+
+This section contains portfolio links for students showcasing their Data Visualization & Analytics (DVA) case studies.
+
+| S.No | Name              | Portfolio Link                          |
+|------|------------------|------------------------------------------|
+| 1    | Samiksha Jangid   | [View Portfolio](https://link1.com)      |
+| 2    | Gauri Jindal  | [View Portfolio](https://link2.com)      |
+| 3    | Abhishek Rana   | [View Portfolio](https://link3.com)      |
+| 4    | Ritik Raj   | [View Portfolio](https://link4.com)      |
+| 5    | Aryan   | [View Portfolio](https://link5.com)      |
+| 6    | Rudraksh Sharma   | [View Portfolio](https://link6.com)      |
