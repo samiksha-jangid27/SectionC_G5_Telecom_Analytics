@@ -1,17 +1,39 @@
-# Tableau Dashboard Links
+# Tableau Dashboard Links — SectionC_G5 Telecom Analytics
 
-Use this file to store the final public links for your Tableau deliverables.
+## Primary Dashboard URL
 
-## Dashboard Details
+🔗 **Tableau Public:** https://public.tableau.com/views/telecom_analysis/Dashboard1
 
-| Item | Link | Notes |
-|---|---|---|
-| Tableau Public Dashboard | https://public.tableau.com/views/Telecom_analysis_17774577765420/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  | _Main submission link_ |
-| Workbook / Story Link | _Paste URL here if applicable_ | _Optional_ |
-| Demo Recording | _Paste URL here if applicable_ | _Optional_ |
+---
 
-## Screenshot Checklist
+## Individual Dashboard Views
 
-- Add exported dashboard screenshots to `tableau/screenshots/`
-- Use clear file names such as `executive_view.png` and `regional_drilldown.png`
-- Make sure screenshots match the final public dashboard
+| Dashboard | Description | Direct Link |
+|-----------|-------------|-------------|
+| Dashboard 1 | Telecom Market Overview | [View](https://public.tableau.com/app/profile/gauri.jindal7248/viz/Telecom_analysis_17774577765420/Dashboard1) |
+| Dashboard 2 | Customer Churn Analysis | [View](https://public.tableau.com/app/profile/gauri.jindal7248/viz/Telecom_analysis_17774577765420/Dashboard2) |
+| Dashboard 3 | Engagement Distribution | [View](https://public.tableau.com/app/profile/gauri.jindal7248/viz/Telecom_analysis_17774577765420/Dashboard3) |
+| Dashboard 4 | Customer Segmentation | [View](https://public.tableau.com/app/profile/gauri.jindal7248/viz/Telecom_analysis_17774577765420/Dashboard4) |
+
+---
+
+## Published By
+
+- **Author:** Gauri Jindal (Visualization Lead)
+- **Published On:** April 2026
+- **Tableau Public Profile:** https://public.tableau.com/app/profile/gauri.jindal7248/vizzes
+
+---
+
+## Screenshots
+
+Screenshots of all four dashboards are committed to `tableau/screenshots/`:
+
+- `dashboard1_market_overview.png`
+- `dashboard2_churn_analysis.png`
+- `dashboard3_engagement_distribution.png`
+- `dashboard4_customer_segmentation.png`
+
+---
+
+*SectionC_G5 | Newton School of Technology | DVA Capstone 2*
