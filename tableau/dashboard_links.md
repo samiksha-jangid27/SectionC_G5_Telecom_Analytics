@@ -2,7 +2,7 @@
 
 ## Primary Dashboard URL
 
-🔗 **Tableau Public:** https://public.tableau.com/views/telecom_analysis/Dashboard1
+🔗 **Tableau Public:** https://public.tableau.com/app/profile/gauri.jindal7248/viz/Telecom_analysis_17774577765420/Dashboard1
 
 ---
 
