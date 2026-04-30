@@ -31,7 +31,7 @@ This project analyses **243,553 telecom customer records** across 4 Indian opera
 
 ## 📊 Tableau Dashboard
 
-🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/telecom_analysis/Dashboard1)
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Telecom_analysis_17774577765420/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 | Dashboard | Focus |
 |-----------|-------|
